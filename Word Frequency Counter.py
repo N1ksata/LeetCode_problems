@@ -10,8 +10,6 @@ class Solution:
         return wordCount
 
 
-        pass
-
 # --- Test Your Code ---
 sol = Solution()
 print(sol.countWords("apple banana apple cherry banana apple"))
