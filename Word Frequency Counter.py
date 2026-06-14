@@ -13,4 +13,3 @@ class Solution:
 # --- Test Your Code ---
 sol = Solution()
 print(sol.countWords("apple banana apple cherry banana apple"))
-# Expected Output: {"apple": 3, "banana": 2, "cherry": 1}
